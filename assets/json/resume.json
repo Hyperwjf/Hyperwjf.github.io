@@ -39,6 +39,17 @@
       "endDate": "2027-06-30 (expected)",
       "score": "10",
       "courses": ["Machine Learning"]
+    },
+    {
+      "institution": "Beijing Institute of Technology",
+      "location": "Beijing, China",
+      "url": "https://www.ia.ac.cn/",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-30",
+      "score": "10",
+      "courses": ["Algorithms", "Data Structures", "Database Systems", "Discrete Mathematics", "Linear Algebra", "Probability Theory"]
     }
   ],
   "selected awards": [
