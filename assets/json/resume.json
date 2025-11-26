@@ -2,10 +2,10 @@
   "basics": {
     "name": "Junfei Wu",
     "label": "Ph.D. Student",
-    "image": "",
+    "image": "img/IKCEST.jpg",
     "email": "junfei.wu@cripac.ia.ac.cn",
     "url": "https://hyperwjf.github.io/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "city": "Beijing",
       "countryCode": "CN",
@@ -21,7 +21,7 @@
   },
   "work": [
     {
-      "name": "Antgroup, 蚂蚁技术研究院",
+      "name": "Ant Group, Ant Group Research Institute",
       "position": "Research Intern",
       "startDate": "2025-01",
       "endDate": "now",
