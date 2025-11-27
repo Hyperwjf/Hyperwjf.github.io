@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 subtitle: Ph.D. Student in MLLMs @ CASIA
 
