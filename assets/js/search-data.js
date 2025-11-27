@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-reinforcing-spatial-reasoning-in-vision-language-models-with-interwoven-thinking-and-visual-drawing-has-been-accepted-to-the-neurips-2025-see-you-in-san-diego",
+            },},{id: "news-our-paper-sharp-steering-hallucination-in-lvlms-via-representation-engineering-has-been-accepted-to-emnlp-2025-see-you-in-suzhou",
+          title: 'Our paper “SHARP: Steering Hallucination in LVLMs via Representation Engineering” has been accepted...',
+          description: "",
+          section: "News",},{id: "news-our-paper-reinforcing-spatial-reasoning-in-vision-language-models-with-interwoven-thinking-and-visual-drawing-has-been-accepted-to-the-neurips-2025-see-you-in-san-diego",
           title: 'Our paper “Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual...',
           description: "",
           section: "News",},{id: "projects-project-1",
