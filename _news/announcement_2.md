@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing" has been accepted to the NeurIPS 2025. See you in San Diego!
+Our paper **"Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing"** has been accepted to the NeurIPS 2025. See you in San Diego!
