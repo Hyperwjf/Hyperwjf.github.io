@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-03'
+  last_updated: '2025-12-08'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
     citations: 9
@@ -10,7 +10,7 @@ papers:
     title: Out-of-distribution evidence-aware fake news detection via dual adversarial debiasing
     year: '2024'
   VzRm70cAAAAJ:M3NEmzRMIkIC:
-    citations: 132
+    citations: 137
     title: 'Mme-realworld: Could your multimodal llm challenge high-resolution real-world scenarios that are difficult for humans?'
     year: '2024'
   VzRm70cAAAAJ:NMxIlDl6LWMC:
@@ -34,7 +34,7 @@ papers:
     title: 'Logical closed loop: Uncovering object hallucinations in large vision-language models'
     year: '2024'
   VzRm70cAAAAJ:YFjsv_pBGBYC:
-    citations: 157
+    citations: 172
     title: 'Video-r1: Reinforcing video reasoning in mllms'
     year: '2025'
   VzRm70cAAAAJ:Zph67rFs4hoC:
@@ -50,7 +50,7 @@ papers:
     title: 'DHScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs'
     year: '2025'
   VzRm70cAAAAJ:isC4tDSrTZIC:
-    citations: 25
+    citations: 30
     title: Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing
     year: '2025'
   VzRm70cAAAAJ:k_IJM867U9cC:
@@ -58,6 +58,6 @@ papers:
     title: Evidence-aware fake news detection with graph neural networks
     year: '2022'
   VzRm70cAAAAJ:r0BpntZqJG4C:
-    citations: 45
+    citations: 44
     title: Adversarial contrastive learning for evidence-aware fake news detection with graph neural networks
     year: '2023'
