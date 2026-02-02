@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-02-02'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
-    citations: 16
+    citations: 17
     title: A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications
     year: '2025'
   VzRm70cAAAAJ:JV2RwH3_ST0C:
-    citations: 23
+    citations: 24
     title: Out-of-distribution evidence-aware fake news detection via dual adversarial debiasing
     year: '2024'
   VzRm70cAAAAJ:M3NEmzRMIkIC:
-    citations: 157
+    citations: 160
     title: 'Mme-realworld: Could your multimodal llm challenge high-resolution real-world scenarios that are difficult for humans?'
     year: '2024'
   VzRm70cAAAAJ:NMxIlDl6LWMC:
@@ -18,7 +18,7 @@ papers:
     title: 'SHARP: Steering Hallucination in LVLMs via Representation Engineering'
     year: '2025'
   VzRm70cAAAAJ:R3hNpaxXUhUC:
-    citations: 34
+    citations: 35
     title: Can large language models detect rumors on social media?
     year: '2024'
   VzRm70cAAAAJ:RHpTSmoSYBkC:
@@ -30,11 +30,11 @@ papers:
     title: 'Mixture of Decoding: An Attention-Inspired Adaptive Decoding Strategy to Mitigate Hallucinations in Large Vision-Language Models'
     year: '2025'
   VzRm70cAAAAJ:TQgYirikUcIC:
-    citations: 63
+    citations: 64
     title: 'Logical closed loop: Uncovering object hallucinations in large vision-language models'
     year: '2024'
   VzRm70cAAAAJ:YFjsv_pBGBYC:
-    citations: 209
+    citations: 213
     title: 'Video-r1: Reinforcing video reasoning in mllms'
     year: '2025'
   VzRm70cAAAAJ:Zph67rFs4hoC:
