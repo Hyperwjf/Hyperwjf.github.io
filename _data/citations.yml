@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-04'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
     citations: 17
@@ -42,7 +42,7 @@ papers:
     title: Uni-modal event-agnostic knowledge distillation for multimodal fake news detection
     year: '2024'
   VzRm70cAAAAJ:_Qo2XoVZTnwC:
-    citations: 39
+    citations: 40
     title: Bias mitigation for evidence-aware fake news detection by causal intervention
     year: '2022'
   VzRm70cAAAAJ:hMod-77fHWUC:
