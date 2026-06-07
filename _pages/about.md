@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Junfei Wu, a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (State Key Laboratory of Multimodal Artificial Intelligence), advised by Prof. Tieniu Tan and collaborating with Prof. Qiang Liu, Shu Wu, and Liang Wang. My research focuses on **multimodal reasoning in Large Vision-Language Models (LVLMs)**, including spatial reasoning, hallucination mitigation.
+I'm Junfei Wu, a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (State Key Laboratory of Multimodal Artificial Intelligence), advised by [Prof. Tieniu Tan](https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=zh-CN) and collaborating with [Prof. Qiang Liu](https://scholar.google.com/citations?user=D-lKLcMAAAAJ&hl=zh-CN), [Shu Wu](https://scholar.google.com/citations?user=qVge6YYAAAAJ&hl=zh-CN), and [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN). My research focuses on **multimodal reasoning in Large Vision-Language Models (LVLMs)**, including spatial reasoning, hallucination mitigation.
 
-I am currently interning at Qwen-VL, focusing on **spatial intelligence**. Previously, I interned at Ant Group's Multimodal LLM team, working on visual reasoning and hallucination in vision-language models.
+I am currently interning at Qwen-VL, focusing on **spatial intelligence**. Previously, I interned at [Ant NLP Research Group](https://github.com/AntResearchNLP), working on visual reasoning and hallucination in vision-language models.
 
 Outside of research, I enjoy basketball, badminton, table tennis, yo-yo, and Rubik's Cube.
 
