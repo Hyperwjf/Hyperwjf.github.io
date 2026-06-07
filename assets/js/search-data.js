@@ -457,6 +457,13 @@ ninja.data = [{
           window.open("mailto:%6A%75%6E%66%65%69.%77%75@%63%72%69%70%61%63.%69%61.%61%63.%63%6E", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/Hyperwjf", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
