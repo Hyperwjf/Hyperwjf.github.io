@@ -21,10 +21,17 @@
   },
   "Intern": [
     {
+      "name": "Qwen-VL",
+      "position": "Research Intern",
+      "startDate": "2026-02",
+      "endDate": "now",
+      "summary": "Spatial Intelligence in LVLMs"
+    },
+    {
       "name": "Ant Group, Ant Group Research Institute",
       "position": "Research Intern",
       "startDate": "2025-01",
-      "endDate": "now",
+      "endDate": "2026-01",
       "summary": "MLLM Reasoning, Think with Images"
     }
   ],
@@ -52,15 +59,75 @@
       "courses": ["Algorithms", "Data Structures", "Database Systems", "Discrete Mathematics", "Linear Algebra", "Probability Theory"]
     }
   ],
-  "selected awards": [
+  "awards": [
     {
-      "title": "National Scholarship",
-      "date": "2025-11",
+      "title": "Ph.D. National Scholarship",
+      "date": "2025-10",
       "awarder": "Ministry of Education, PRC",
       "summary": ""
     },
     {
-      "title": "National Scholarship",
+      "title": "UCAS Merit Student",
+      "date": "2024, 2026",
+      "awarder": "University of Chinese Academy of Sciences",
+      "summary": ""
+    },
+    {
+      "title": "UCAS Graduate Academic Scholarship",
+      "date": "2022, 2023, 2024, 2025",
+      "awarder": "University of Chinese Academy of Sciences",
+      "summary": ""
+    },
+    {
+      "title": "5th IKCEST International Big Data Competition (Multimodal Fake News Detection), Second Prize",
+      "date": "2023-11",
+      "awarder": "IKCEST",
+      "summary": ""
+    },
+    {
+      "title": "2020 ICPC Asia Shenyang Regional Contest, Bronze Medal",
+      "date": "2021-07",
+      "awarder": "International Collegiate Programming Contest",
+      "summary": ""
+    },
+    {
+      "title": "China Collegiate Computing Contest — Team Design Ladder Tournament National Finals, Silver Award",
+      "date": "2021-04",
+      "awarder": "China Collegiate Computing Contest",
+      "summary": ""
+    },
+    {
+      "title": "11th Lanqiao Cup National Finals, Third Prize",
+      "date": "2020-11",
+      "awarder": "Lanqiao Cup",
+      "summary": ""
+    },
+    {
+      "title": "Beijing Outstanding Graduate",
+      "date": "2022-06",
+      "awarder": "Beijing Municipal Education Commission",
+      "summary": ""
+    },
+    {
+      "title": "BIT Outstanding Student (Role Model)",
+      "date": "2019, 2020, 2021",
+      "awarder": "Beijing Institute of Technology",
+      "summary": ""
+    },
+    {
+      "title": "Jiefang Pilot Scholarship",
+      "date": "2021-11",
+      "awarder": "Beijing Institute of Technology",
+      "summary": ""
+    },
+    {
+      "title": "Huarui Century Scholarship",
+      "date": "2020-11",
+      "awarder": "Beijing Institute of Technology",
+      "summary": ""
+    },
+    {
+      "title": "Undergraduate National Scholarship",
       "date": "2019-11",
       "awarder": "Ministry of Education, PRC",
       "summary": ""
