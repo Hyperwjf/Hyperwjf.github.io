@@ -170,5 +170,56 @@
       "url": "https://dl.acm.org/doi/10.1145/3477495.3531850",
       "summary": ""
     }
+  ],
+  "Reviewing": [
+    {
+      "name": "NeurIPS",
+      "position": "Reviewer",
+      "startDate": "2025",
+      "endDate": "2025",
+      "summary": ""
+    },
+    {
+      "name": "ICLR",
+      "position": "Reviewer",
+      "startDate": "2026",
+      "endDate": "2026",
+      "summary": ""
+    },
+    {
+      "name": "CVPR",
+      "position": "Reviewer",
+      "startDate": "2026",
+      "endDate": "2026",
+      "summary": ""
+    },
+    {
+      "name": "ECCV",
+      "position": "Reviewer",
+      "startDate": "2026",
+      "endDate": "2026",
+      "summary": ""
+    },
+    {
+      "name": "ACL",
+      "position": "Reviewer",
+      "startDate": "2025",
+      "endDate": "2026",
+      "summary": ""
+    },
+    {
+      "name": "ICML",
+      "position": "Reviewer",
+      "startDate": "2026",
+      "endDate": "2026",
+      "summary": ""
+    },
+    {
+      "name": "EMNLP",
+      "position": "Reviewer",
+      "startDate": "2025",
+      "endDate": "2026",
+      "summary": ""
+    }
   ]
 }
