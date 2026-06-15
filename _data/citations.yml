@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
-    citations: 38
+    citations: 40
     title: A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications
     year: '2025'
   VzRm70cAAAAJ:BqipwSGYUEgC:
-    citations: 10
+    citations: 11
     title: 'OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models'
     year: '2026'
   VzRm70cAAAAJ:GnPB-g6toBAC:
-    citations: 0
+    citations: 1
     title: Chatting with Images for Introspective Visual Thinking
     year: '2026'
   VzRm70cAAAAJ:JV2RwH3_ST0C:
@@ -18,11 +18,11 @@ papers:
     title: Out-of-distribution evidence-aware fake news detection via dual adversarial debiasing
     year: '2024'
   VzRm70cAAAAJ:M3NEmzRMIkIC:
-    citations: 235
+    citations: 241
     title: 'Mme-realworld: Could your multimodal llm challenge high-resolution real-world scenarios that are difficult for humans?'
     year: '2024'
   VzRm70cAAAAJ:NMxIlDl6LWMC:
-    citations: 8
+    citations: 9
     title: 'Sharp: Steering hallucination in lvlms via representation engineering'
     year: '2025'
   VzRm70cAAAAJ:O3NaXMp0MMsC:
@@ -46,7 +46,7 @@ papers:
     title: 'Logical closed loop: Uncovering object hallucinations in large vision-language models'
     year: '2024'
   VzRm70cAAAAJ:YFjsv_pBGBYC:
-    citations: 382
+    citations: 388
     title: 'Video-r1: Reinforcing video reasoning in mllms'
     year: '2025'
   VzRm70cAAAAJ:_Qo2XoVZTnwC:
@@ -58,11 +58,11 @@ papers:
     title: 'DHScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs'
     year: '2025'
   VzRm70cAAAAJ:isC4tDSrTZIC:
-    citations: 97
+    citations: 100
     title: Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing
     year: '2025'
   VzRm70cAAAAJ:k_IJM867U9cC:
-    citations: 209
+    citations: 210
     title: Evidence-aware fake news detection with graph neural networks
     year: '2022'
   VzRm70cAAAAJ:ns9cj8rnVeAC:
