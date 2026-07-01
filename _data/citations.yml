@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-01'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
-    citations: 40
+    citations: 43
     title: A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications
     year: '2025'
   VzRm70cAAAAJ:BqipwSGYUEgC:
-    citations: 11
+    citations: 12
     title: 'OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models'
     year: '2026'
   VzRm70cAAAAJ:GnPB-g6toBAC:
@@ -18,15 +18,15 @@ papers:
     title: Out-of-distribution evidence-aware fake news detection via dual adversarial debiasing
     year: '2024'
   VzRm70cAAAAJ:M3NEmzRMIkIC:
-    citations: 241
+    citations: 247
     title: 'Mme-realworld: Could your multimodal llm challenge high-resolution real-world scenarios that are difficult for humans?'
     year: '2024'
   VzRm70cAAAAJ:NMxIlDl6LWMC:
-    citations: 9
+    citations: 11
     title: 'Sharp: Steering hallucination in lvlms via representation engineering'
     year: '2025'
   VzRm70cAAAAJ:O3NaXMp0MMsC:
-    citations: 11
+    citations: 12
     title: Uni-modal event-agnostic knowledge distillation for multimodal fake news detection
     year: '2024'
   VzRm70cAAAAJ:R3hNpaxXUhUC:
@@ -38,15 +38,15 @@ papers:
     title: 'STRIVE: Structured Reasoning for Self-Improvement in Claim Verification'
     year: '2025'
   VzRm70cAAAAJ:TFP_iSt0sucC:
-    citations: 8
+    citations: 10
     title: 'Mixture of Decoding: An Attention-Inspired Adaptive Decoding Strategy to Mitigate Hallucinations in Large Vision-Language Models'
     year: '2025'
   VzRm70cAAAAJ:TQgYirikUcIC:
-    citations: 88
+    citations: 89
     title: 'Logical closed loop: Uncovering object hallucinations in large vision-language models'
     year: '2024'
   VzRm70cAAAAJ:YFjsv_pBGBYC:
-    citations: 388
+    citations: 404
     title: 'Video-r1: Reinforcing video reasoning in mllms'
     year: '2025'
   VzRm70cAAAAJ:_Qo2XoVZTnwC:
@@ -54,11 +54,11 @@ papers:
     title: Bias mitigation for evidence-aware fake news detection by causal intervention
     year: '2022'
   VzRm70cAAAAJ:hMod-77fHWUC:
-    citations: 3
+    citations: 4
     title: 'DHScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs'
     year: '2025'
   VzRm70cAAAAJ:isC4tDSrTZIC:
-    citations: 100
+    citations: 105
     title: Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing
     year: '2025'
   VzRm70cAAAAJ:k_IJM867U9cC:
@@ -66,10 +66,10 @@ papers:
     title: Evidence-aware fake news detection with graph neural networks
     year: '2022'
   VzRm70cAAAAJ:ns9cj8rnVeAC:
-    citations: 2
+    citations: 4
     title: 'RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation'
     year: '2026'
   VzRm70cAAAAJ:r0BpntZqJG4C:
-    citations: 59
+    citations: 60
     title: Adversarial contrastive learning for evidence-aware fake news detection with graph neural networks
     year: '2023'
