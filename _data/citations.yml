@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-03'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
     citations: 43
@@ -62,7 +62,7 @@ papers:
     title: Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing
     year: '2025'
   VzRm70cAAAAJ:k_IJM867U9cC:
-    citations: 211
+    citations: 213
     title: Evidence-aware fake news detection with graph neural networks
     year: '2022'
   VzRm70cAAAAJ:ns9cj8rnVeAC:
