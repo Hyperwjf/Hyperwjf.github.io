@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-08-12'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
-    citations: 44
+    citations: 49
     title: A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications
     year: '2025'
   VzRm70cAAAAJ:BqipwSGYUEgC:
-    citations: 12
+    citations: 18
     title: 'OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models'
     year: '2026'
   VzRm70cAAAAJ:GnPB-g6toBAC:
@@ -14,15 +14,15 @@ papers:
     title: Chatting with Images for Introspective Visual Thinking
     year: '2026'
   VzRm70cAAAAJ:JV2RwH3_ST0C:
-    citations: 31
+    citations: 32
     title: Out-of-distribution evidence-aware fake news detection via dual adversarial debiasing
     year: '2024'
   VzRm70cAAAAJ:M3NEmzRMIkIC:
-    citations: 253
+    citations: 283
     title: 'Mme-realworld: Could your multimodal llm challenge high-resolution real-world scenarios that are difficult for humans?'
     year: '2024'
   VzRm70cAAAAJ:NMxIlDl6LWMC:
-    citations: 11
+    citations: 13
     title: 'Sharp: Steering hallucination in lvlms via representation engineering'
     year: '2025'
   VzRm70cAAAAJ:O3NaXMp0MMsC:
@@ -33,20 +33,24 @@ papers:
     citations: 40
     title: Can large language models detect rumors on social media?
     year: '2024'
+  VzRm70cAAAAJ:RGFaLdJalmkC:
+    citations: 119
+    title: Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing
+    year: '2026'
   VzRm70cAAAAJ:RHpTSmoSYBkC:
     citations: 4
     title: 'STRIVE: Structured Reasoning for Self-Improvement in Claim Verification'
     year: '2025'
   VzRm70cAAAAJ:TFP_iSt0sucC:
-    citations: 12
+    citations: 14
     title: 'Mixture of Decoding: An Attention-Inspired Adaptive Decoding Strategy to Mitigate Hallucinations in Large Vision-Language Models'
     year: '2025'
   VzRm70cAAAAJ:TQgYirikUcIC:
-    citations: 89
+    citations: 90
     title: 'Logical closed loop: Uncovering object hallucinations in large vision-language models'
     year: '2024'
   VzRm70cAAAAJ:YFjsv_pBGBYC:
-    citations: 417
+    citations: 449
     title: 'Video-r1: Reinforcing video reasoning in mllms'
     year: '2025'
   VzRm70cAAAAJ:_Qo2XoVZTnwC:
@@ -54,22 +58,18 @@ papers:
     title: Bias mitigation for evidence-aware fake news detection by causal intervention
     year: '2022'
   VzRm70cAAAAJ:hMod-77fHWUC:
-    citations: 4
+    citations: 7
     title: 'DHScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs'
-    year: '2025'
-  VzRm70cAAAAJ:isC4tDSrTZIC:
-    citations: 106
-    title: Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing
     year: '2025'
   VzRm70cAAAAJ:k_IJM867U9cC:
     citations: 214
     title: Evidence-aware fake news detection with graph neural networks
     year: '2022'
   VzRm70cAAAAJ:ns9cj8rnVeAC:
-    citations: 4
+    citations: 6
     title: 'RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation'
     year: '2026'
   VzRm70cAAAAJ:r0BpntZqJG4C:
-    citations: 61
+    citations: 60
     title: Adversarial contrastive learning for evidence-aware fake news detection with graph neural networks
     year: '2023'
