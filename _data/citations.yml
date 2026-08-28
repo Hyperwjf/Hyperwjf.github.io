@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   VzRm70cAAAAJ:4JMBOYKVnBMC:
-    citations: 51
+    citations: 53
     title: A Survey on Personalized Alignment--The Missing Piece for Large Language Models in Real-World Applications
     year: '2025'
   VzRm70cAAAAJ:BqipwSGYUEgC:
@@ -14,7 +14,7 @@ papers:
     title: Chatting with Images for Introspective Visual Thinking
     year: '2026'
   VzRm70cAAAAJ:JV2RwH3_ST0C:
-    citations: 32
+    citations: 33
     title: Out-of-distribution evidence-aware fake news detection via dual adversarial debiasing
     year: '2024'
   VzRm70cAAAAJ:M3NEmzRMIkIC:
@@ -26,7 +26,7 @@ papers:
     title: 'Sharp: Steering hallucination in lvlms via representation engineering'
     year: '2025'
   VzRm70cAAAAJ:O3NaXMp0MMsC:
-    citations: 13
+    citations: 14
     title: Uni-modal event-agnostic knowledge distillation for multimodal fake news detection
     year: '2024'
   VzRm70cAAAAJ:R3hNpaxXUhUC:
@@ -54,7 +54,7 @@ papers:
     title: 'Video-r1: Reinforcing video reasoning in mllms'
     year: '2025'
   VzRm70cAAAAJ:_Qo2XoVZTnwC:
-    citations: 49
+    citations: 50
     title: Bias mitigation for evidence-aware fake news detection by causal intervention
     year: '2022'
   VzRm70cAAAAJ:hMod-77fHWUC:
@@ -62,7 +62,7 @@ papers:
     title: 'DHScore: Reasoning-Aware Hallucination Detection via Semantic Breadth and Depth Analysis in LLMs'
     year: '2025'
   VzRm70cAAAAJ:k_IJM867U9cC:
-    citations: 215
+    citations: 218
     title: Evidence-aware fake news detection with graph neural networks
     year: '2022'
   VzRm70cAAAAJ:ns9cj8rnVeAC:
@@ -70,6 +70,6 @@ papers:
     title: 'RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation'
     year: '2026'
   VzRm70cAAAAJ:r0BpntZqJG4C:
-    citations: 60
+    citations: 62
     title: Adversarial contrastive learning for evidence-aware fake news detection with graph neural networks
     year: '2023'
