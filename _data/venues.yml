@@ -11,3 +11,35 @@
 "NeurIPS":
   url: https://neurips.cc/
   color: "#9b1818"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#0057b8"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#27ae60"
+
+"ACL":
+  url: https://aclanthology.org/
+  color: "#c0392b"
+
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#8e44ad"
+
+"SIGIR":
+  url: https://sigir.org/
+  color: "#d35400"
+
+"WWW":
+  url: https://thewebconf.org/
+  color: "#16a085"
+
+"TKDE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69
+  color: "#2980b9"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

@@ -25,7 +25,15 @@
       "position": "Research Intern",
       "startDate": "2026-02",
       "endDate": "now",
-      "summary": "Spatial Intelligence in LVLMs"
+      "summary": "Physical Agent & 3D Game Agent for the Qwen family: spatial-reasoning evaluation, multi-view and egocentric-video data pipelines, agent tooling, and simulation / arena infrastructure.",
+      "highlights": [
+        "Physical Agent — proposed the 'Reconstruction as Evaluation' paradigm, casting multi-view spatial integration as metric 3D scene reconstruction; decoupled relative structure from absolute measurement and revealed a pervasive 'structure judgable, measurement fails' phenomenon across 17 frontier LVLMs (submitted to ICLR 2027).",
+        "Physical Agent — built multi-view data pipelines covering embodied, indoor and outdoor scenes, producing CPT / SFT / RFT / RL data at scale; supported Qwen3.8-Max reaching 77.8% on ERQA, 7.8 points ahead of the runner-up.",
+        "Physical Agent — built an egocentric-video fine-grained understanding and reasoning benchmark with hierarchical captioning and reasoning tasks (task intent -> temporal action segmentation -> atomic action recognition) across diverse embodiments and environments, plus a hierarchical annotation pipeline and a dedicated annotation model to scale labeling.",
+        "Physical Agent — wrapped detection, segmentation and 3D reconstruction models into callable tools to build a Spatial-Skills-augmented spatial reasoning agent for precise spatial numeric reasoning; built automated simulation and agent-runtime infrastructure for navigation / manipulation, supporting large-scale parallel rollouts with trajectory and result collection.",
+        "3D Game Agent — built the data and environment stack for a game-development agent: a traceable game knowledge base from game descriptions, walkthroughs, visual assets and open-source projects, with multiple construction routes yielding multi-granular, multi-modal development queries; UE5 / Unity environments with batch rollout and trajectory collection on Linux / macOS / Windows; CLI / MCP / Skills workflows coordinating image generation and Blender.",
+        "3D Game Agent — built an automated evaluation arena whose four designs (fixed rubric, GUI-based evidence collection, independent scoring, same-task comparison) safeguard objectivity, supporting capability diagnosis, training-data filtering and RL reward design."
+      ]
     },
     {
       "name": "Ant NLP Research Group",
